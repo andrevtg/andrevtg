@@ -1,15 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=160&section=header&text=André%20Fernandes&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Strategic%20IT%20Consulting%20·%20Platform%20Engineering%20·%20Developer%20Experience&descAlignY=58&descSize=14&descColor=cce0f5" width="100%"/>
+
 <div align="center">
-
-# André Fernandes
-
-### Strategic IT Consulting · Platform Engineering · Developer Experience
-
-*I help engineering organizations move from reactive execution to strategic delivery —*
-*by building the platforms, processes, and architecture that actually scale.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andrevtg-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-fernandes-vtg/)
 [![Substack](https://img.shields.io/badge/Substack-veecode-FF6719?style=flat&logo=substack&logoColor=white)](https://veecode.substack.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-andrevtg-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andrevtg)
+![Profile Views](https://komarev.com/ghpvc/?username=andrevtg&color=0A66C2&style=flat&label=Profile+Views)
 
 </div>
 
@@ -29,7 +25,7 @@ I'm the founder of **[Vertigo Tech](https://www.linkedin.com/company/vertigotech
 
 ## How I Think About Technology
 
-I work at the intersection of **platform engineering**, **cloud-native architecture**, and **organizational design**. My approach to technology is always tied to a business outcome:
+I work at the intersection of **platform engineering**, **cloud-native architecture**, and **organizational design**. My approach is always tied to a business outcome:
 
 - Every platform decision should increase delivery autonomy, not add gatekeepers
 - Internal products (IDPs, API Platforms) deserve the same product discipline as customer-facing ones
@@ -63,13 +59,46 @@ I write about these topics on [Substack →](https://veecode.substack.com/)
 
 ---
 
-## GitHub Stats
+## Recent Activity
 
 <div align="center">
 
-![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrevtg&show_icons=true&hide_border=true&theme=default&hide_title=false&count_private=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrevtg&bg_color=ffffff&color=0A66C2&line=0A66C2&point=003459&area=true&area_color=cce0f5&hide_border=true)](https://github.com/andrevtg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrevtg&layout=compact&hide_border=true&theme=default)
+</div>
+
+---
+
+## Recent Repositories
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+[![backstage-dummy-users](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=backstage-dummy-users&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/backstage-dummy-users)
+
+</td>
+<td>
+
+[![gitops-config](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=gitops-config&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/gitops-config)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![ecs-compose](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=ecs-compose&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/ecs-compose)
+
+</td>
+<td>
+
+[![inso-cli](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=inso-cli&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/inso-cli)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -86,3 +115,5 @@ If your engineering teams are stuck in dependency cycles, your API ecosystem is 
 [![VeeCode](https://img.shields.io/badge/VeeCode%20Platform-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veecodeplatform/)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%"/>
