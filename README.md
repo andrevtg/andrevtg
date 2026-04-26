@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=160&section=header&text=André%20Fernandes&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Strategic%20IT%20Consulting%20·%20Platform%20Engineering%20·%20Developer%20Experience&descAlignY=58&descSize=14&descColor=cce0f5" width="100%"/>
+<img src="./assets/capa-linkedin.png" alt="André Fernandes — Strategic IT Consulting · Platform Engineering · Developer Experience" width="100%"/>
 
 <div align="center">
 
@@ -31,7 +31,7 @@ I work at the intersection of **platform engineering**, **cloud-native architect
 A production-ready **Internal Developer Portal** built on Backstage — scaffolding, observability, provisioning, and integrations with GitHub, ArgoCD, Kubernetes, and Jenkins out of the box. Teams stop waiting on each other and start shipping.
 
 [![Distro](https://img.shields.io/badge/devportal--distro-Full%20Backstage%20Distro-0A66C2?style=flat&logo=backstage&logoColor=white)](https://github.com/veecode-platform/devportal-distro)
-[![Plugins](https://img.shields.io/badge/platform--backstage--plugins-⭐%2019-0A66C2?style=flat&logo=backstage&logoColor=white)](https://github.com/veecode-platform/platform-backstage-plugins)
+[![Plugins](https://img.shields.io/badge/devportal--plugins-VeeCode%20Plugins-0A66C2?style=flat&logo=backstage&logoColor=white)](https://github.com/veecode-platform/devportal-plugins)
 [![Base](https://img.shields.io/badge/devportal--base-Base%20Image-0A66C2?style=flat&logo=docker&logoColor=white)](https://github.com/veecode-platform/devportal-base)
 
 </td>
@@ -102,5 +102,3 @@ If your engineering teams are stuck in dependency cycles, your API ecosystem is 
 [![VeeCode](https://img.shields.io/badge/VeeCode%20Platform-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veecodeplatform/)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%"/>
