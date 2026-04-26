@@ -2,34 +2,61 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andrevtg-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-fernandes-vtg/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andre--fernandes--vtg-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-fernandes-vtg/)
 [![Substack](https://img.shields.io/badge/Substack-veecode-FF6719?style=flat&logo=substack&logoColor=white)](https://veecode.substack.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-andrevtg-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andrevtg)
-![Profile Views](https://komarev.com/ghpvc/?username=andrevtg&color=0A66C2&style=flat&label=Profile+Views)
 
 </div>
 
 ---
 
-## What I Build
+Founder & CPO at **[Vertigo Tech](https://github.com/vertigobr)** · Creator & CEO of **[VeeCode Platform](https://github.com/veecode-platform)**.
 
-I'm the founder of **[Vertigo Tech](https://www.linkedin.com/company/vertigotech/)** and creator of **[VeeCode Platform](https://www.instagram.com/veecodeplatform/)** — a suite of products designed to close the gap between engineering teams and strategic business outcomes.
-
-**VeeCode IDP** is a production-ready Internal Developer Portal built on Backstage — with Scaffolding, observability plugins, provisioning flows, and integrations with GitHub, ArgoCD, Kubernetes, and Jenkins configured out of the box. Teams stop waiting on each other and start shipping.
-
-**VeeCode APIP** transforms APIs from internal plumbing into governed, documented, and observable products — backed by Kong Gateway, with full lifecycle management and a developer portal for internal and external consumers.
+I work at the intersection of **platform engineering**, **cloud-native architecture**, and **organizational design** — turning internal developer experience into a measurable business outcome. Today, a lot of that work is being reshaped by **AI agents** entering the software delivery loop, and I'm building the platforms that make that productive instead of chaotic.
 
 > *"Each hour of developer idle time — waiting for access, infrastructure, or a specialist — is direct business cost. Platforms eliminate that."*
+
+**Now:** scaling VeeCode IDP and APIP across LATAM customers, and exploring agentic workflows on top of Backstage.
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### VeeCode IDP
+
+A production-ready **Internal Developer Portal** built on Backstage — scaffolding, observability, provisioning, and integrations with GitHub, ArgoCD, Kubernetes, and Jenkins out of the box. Teams stop waiting on each other and start shipping.
+
+[![Distro](https://img.shields.io/badge/devportal--distro-Full%20Backstage%20Distro-0A66C2?style=flat&logo=backstage&logoColor=white)](https://github.com/veecode-platform/devportal-distro)
+[![Plugins](https://img.shields.io/badge/platform--backstage--plugins-⭐%2019-0A66C2?style=flat&logo=backstage&logoColor=white)](https://github.com/veecode-platform/platform-backstage-plugins)
+[![Base](https://img.shields.io/badge/devportal--base-Base%20Image-0A66C2?style=flat&logo=docker&logoColor=white)](https://github.com/veecode-platform/devportal-base)
+
+</td>
+<td width="50%" valign="top">
+
+### VeeCode APIP
+
+An **API Platform** that turns APIs from internal plumbing into governed, documented, observable products — backed by Kong Gateway, with full lifecycle management and a developer portal for internal and external consumers.
+
+[![APIP Demo](https://img.shields.io/badge/devportal--apip--demo-Live%20Demo-003459?style=flat&logo=kong&logoColor=white)](https://github.com/veecode-platform/devportal-apip-demo)
+[![Docs](https://img.shields.io/badge/VeeCode-Docs-003459?style=flat&logo=readthedocs&logoColor=white)](https://github.com/veecode-platform/docs)
+[![Org](https://img.shields.io/badge/@veecode--platform-Org-003459?style=flat&logo=github&logoColor=white)](https://github.com/veecode-platform)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## How I Think About Technology
 
-I work at the intersection of **platform engineering**, **cloud-native architecture**, and **organizational design**. My approach is always tied to a business outcome:
-
-- Every platform decision should increase delivery autonomy, not add gatekeepers
-- Internal products (IDPs, API Platforms) deserve the same product discipline as customer-facing ones
-- Strategic consulting means diagnosing the system, not just optimizing the parts
+- Every platform decision should increase delivery autonomy, not add gatekeepers.
+- Internal products (IDPs, API Platforms) deserve the same product discipline as customer-facing ones.
+- Strategic consulting means diagnosing the system, not just optimizing the parts.
+- AI agents are the next platform user — design the developer portal, the API gateway, and the runtime to serve them as first-class citizens.
 
 I write about these topics on [Substack →](https://veecode.substack.com/)
 
@@ -57,56 +84,16 @@ I write about these topics on [Substack →](https://veecode.substack.com/)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
----
+**AI & Agents**
 
-## Recent Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrevtg&bg_color=ffffff&color=0A66C2&line=0A66C2&point=003459&area=true&area_color=cce0f5&hide_border=true)](https://github.com/andrevtg)
-
-</div>
-
----
-
-## Recent Repositories
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-[![backstage-dummy-users](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=backstage-dummy-users&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/backstage-dummy-users)
-
-</td>
-<td>
-
-[![gitops-config](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=gitops-config&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/gitops-config)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[![ecs-compose](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=ecs-compose&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/ecs-compose)
-
-</td>
-<td>
-
-[![inso-cli](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=inso-cli&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/inso-cli)
-
-</td>
-</tr>
-</table>
-
-</div>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=flat)
 
 ---
 
 ## Let's Talk Strategy
 
-If your engineering teams are stuck in dependency cycles, your API ecosystem is growing without governance, or you're trying to figure out how Platform Engineering fits your organizational model — let's talk.
+If your engineering teams are stuck in dependency cycles, your API ecosystem is growing without governance, or you're trying to figure out how Platform Engineering — and AI agents on top of it — fit your organizational model, let's talk.
 
 <div align="center">
 
