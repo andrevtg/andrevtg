@@ -2,7 +2,7 @@
 
 # André Fernandes
 
-### IT Strategic Consulting · Platform Engineering · Developer Experience
+### Strategic IT Consulting · Platform Engineering · Developer Experience
 
 *I help engineering organizations move from reactive execution to strategic delivery —*
 *by building the platforms, processes, and architecture that actually scale.*
@@ -50,7 +50,6 @@ I write about these topics on [Substack →](https://veecode.substack.com/)
 **Platform & Infrastructure**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=flat&logo=backstage&logoColor=black)
 ![Kong](https://img.shields.io/badge/Kong-003459?style=flat&logo=kong&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
