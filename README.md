@@ -59,51 +59,6 @@ I write about these topics on [Substack →](https://veecode.substack.com/)
 
 ---
 
-## Recent Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrevtg&bg_color=ffffff&color=0A66C2&line=0A66C2&point=003459&area=true&area_color=cce0f5&hide_border=true)](https://github.com/andrevtg)
-
-</div>
-
----
-
-## Recent Repositories
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-[![backstage-dummy-users](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=backstage-dummy-users&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/backstage-dummy-users)
-
-</td>
-<td>
-
-[![gitops-config](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=gitops-config&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/gitops-config)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[![ecs-compose](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=ecs-compose&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/ecs-compose)
-
-</td>
-<td>
-
-[![inso-cli](https://github-readme-stats.vercel.app/api/pin/?username=andrevtg&repo=inso-cli&hide_border=true&title_color=0A66C2&icon_color=0A66C2)](https://github.com/andrevtg/inso-cli)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## Let's Talk Strategy
 
 If your engineering teams are stuck in dependency cycles, your API ecosystem is growing without governance, or you're trying to figure out how Platform Engineering fits your organizational model — let's talk.
