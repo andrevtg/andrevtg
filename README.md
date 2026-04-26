@@ -10,7 +10,7 @@
 
 ---
 
-Founder & CPO at **[Vertigo Tech](https://github.com/vertigobr)** · Creator & CEO of **[VeeCode Platform](https://github.com/veecode-platform)**.
+Strategic IT Consulting / Founder and CPO at Vertigo ([@vertigobr](https://github.com/vertigobr)) / Creator and CEO of VeeCode Platform ([@veecode-platform](https://github.com/veecode-platform)).
 
 I work at the intersection of **platform engineering**, **cloud-native architecture**, and **organizational design** — turning internal developer experience into a measurable business outcome. Today, a lot of that work is being reshaped by **AI agents** entering the software delivery loop, and I'm building the platforms that make that productive instead of chaotic.
 
